@@ -1,0 +1,12 @@
+SURVEY ANALYSIS SUMMARY
+==================================================
+
+Total Responses: 3
+Average Rating: 4.0/5.0
+
+Sentiment Breakdown:
+  Positive: 66.7%
+  Negative: 0.0%
+  Neutral: 33.3%
+
+Top Keywords: great, service,, professional!, good, experience
